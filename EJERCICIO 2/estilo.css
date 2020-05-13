@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+.uno{
+	background-color: gray;
+	height:65px;
+	margin-bottom:1%;
+}
+
+.dos{
+	background-color: grey;
+	height:40px;
+	margin-bottom:1%;
+}
+
+.tres{
+	background-color: grey;
+	height:100px; 
+	margin-bottom:1%;
+}
+
+.cuatro{
+	background-color: grey;
+	width:30%;
+	height:580px;
+	margin-bottom:1%;
+	float: left;
+	
+}
+
+.cinco{
+	background-color: grey;
+	width:65%;
+	height:580px ;
+	float: right;
+	margin-bottom:1%;
+}
+
+.footer{
+	background-color: grey;
+	width: 100%;
+	height: 80px;
+	margin-bottom:1%;
+	
+}
+
+.contenedor{
+	height:600px; 
+}
